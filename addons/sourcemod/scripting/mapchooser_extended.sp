@@ -55,7 +55,7 @@
 #include <multicolors>
 
 #undef REQUIRE_PLUGIN
-// #tryinclude <nativevotes>
+#tryinclude <nativevotes>
 #tryinclude <DynamicChannels>
 #tryinclude <nominations_extended>
 #tryinclude <zleader>
